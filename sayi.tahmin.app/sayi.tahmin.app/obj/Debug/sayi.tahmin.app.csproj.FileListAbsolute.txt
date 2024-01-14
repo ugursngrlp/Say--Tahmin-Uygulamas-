@@ -1,0 +1,8 @@
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\bin\Debug\sayi.tahmin.app.exe.config
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\bin\Debug\sayi.tahmin.app.exe
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\bin\Debug\sayi.tahmin.app.pdb
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\obj\Debug\sayi.tahmin.app.csproj.AssemblyReference.cache
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\obj\Debug\sayi.tahmin.app.csproj.SuggestedBindingRedirects.cache
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\obj\Debug\sayi.tahmin.app.csproj.CoreCompileInputs.cache
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\obj\Debug\sayi.tahmin.app.exe
+C:\Users\ugurs\source\repos\sayi.tahmin.app\sayi.tahmin.app\obj\Debug\sayi.tahmin.app.pdb
